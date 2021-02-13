@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Subham 👋
 
-<!--
-**Subh85330/Subh85330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 
+- 🌱 I am currently working on Multi Mobile Manipulators
+- 🌱 Working with Model Predictive Control
+- ⚡ Fun fact: I love to play guitar
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/SubhamUpadhaya7
+[instagram]: https://www.instagram.com/subhamupadhayay356/
+[linkedin]: https://linkedin.com/in/upadhayay
