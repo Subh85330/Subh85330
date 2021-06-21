@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning everything 
-- 🌱 I am currently working on Multi Mobile Manipulators
+- 🌱 I am currently working on Multi Mobile Robots
 - 🌱 Working with Model Predictive Control
 - ⚡ Fun fact: I love to play guitar
 
