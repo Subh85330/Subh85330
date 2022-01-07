@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 
 - 🌱 I am currently working on Multi Mobile Robots
 - 🌱 Working with Model Predictive Control
-- ⚡ Fun fact: I love to play guitar
+<!-- - ⚡ Fun fact: I love to play guitar -->
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
