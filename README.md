@@ -3,8 +3,8 @@
 
 
 - 🌱 I’m currently learning everything 
-- 🌱 I am currently working on Multi Mobile Robots
-- 🌱 Working with Model Predictive Control
+- 🌱 I am currently working on Automated Storage & Retrieval System (ASRS)
+- 🌱 Worked on Model Predictive Control
 <!-- - ⚡ Fun fact: I love to play guitar -->
 
 ### Connect with me:
