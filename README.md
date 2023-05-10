@@ -14,5 +14,5 @@
 
 
 [twitter]: https://twitter.com/SubhamUpadhaya7
-[instagram]: https://www.instagram.com/subhamupadhayay356/
+[instagram]: https://www.instagram.com/yaitsmesubh/
 [linkedin]: https://linkedin.com/in/upadhayay
